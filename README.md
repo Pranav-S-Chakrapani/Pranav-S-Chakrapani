@@ -1,15 +1,8 @@
 <div align="center">
 
-```
-███████╗███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗
-██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝
-███████╗█████╗  ██║     ██║   ██║██████╔╝██║   ██║    ╚████╔╝ 
-╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║     ╚██╔╝  
-███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║   
-╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝  
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=INFINITYv69&fontSize=70&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=Pranav%20S%20Chakrapani%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20IoT&descAlignY=60&descColor=0d1117" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%5BSYSTEM+INITIALIZING...%5D;%3E+Pranav+S+Chakrapani+%2F%2F+INFINITYv69;%3E+Cybersecurity+Student+%40+GM+University;%3E+IoT+%7C+Ethical+Hacking+%7C+AI+Security;%3E+ARMOR%3A+Multilingual+Financial+AI+%40+IIIT+Dharwad;%3E+Building+the+digital+immune+system...;%5BACCESS+GRANTED%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=600&color=00FF41&center=true&vCenter=true&width=650&lines=%5BSYSTEM+INITIALIZING...%5D;%3E+Cybersecurity+Student+%40+GM+University;%3E+IoT+%7C+Ethical+Hacking+%7C+AI+Security;%3E+Builder+of+ARMOR+%7C+Saptang+%7C+HackChrono;%3E+Securing+the+edge%2C+one+commit+at+a+time...;%5BACCESS+GRANTED+%E2%9C%93%5D" alt="Typing SVG" />
 
 <br/>
 
@@ -20,15 +13,11 @@
 
 ---
 
-```bash
-$ whoami
-```
-
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  NAME     : Pranav S Chakrapani                              │
 │  ALIAS    : INFINITYv69                                      │
-│  ROLE     : 2nd Year B.Tech CSE (Cybersecurity)              │
+│  ROLE     : 2nd Year B.Tech CSE — Cybersecurity              │
 │  UNIT     : GM University                                    │
 │  MISSION  : Secure systems. Break things (ethically).        │
 │             Build AI that defends.                           │
@@ -40,9 +29,9 @@ $ whoami
 
 ## `> cat about.txt`
 
-I'm a **cybersecurity & IoT enthusiast** who builds systems that sit at the intersection of **hardware, AI, and network security**. From programming ESP32 microcontrollers to building ML-powered anomaly detection dashboards — I bridge the gap between physical and digital threats.
+I'm a **cybersecurity & IoT enthusiast** building at the intersection of **hardware, AI, and network security**. From flashing ESP32 firmware to deploying full-stack LLM-powered apps — I bridge the gap between physical and digital threats.
 
-Currently exploring: **ethical hacking**, **entity resolution**, **embedded systems security**, and **AI-driven threat detection**.
+Currently exploring: **ethical hacking**, **multilingual AI**, **embedded systems security**, and **AI-driven financial intelligence**.
 
 > *"The best defense is understanding the offense."*
 
@@ -52,26 +41,35 @@ Currently exploring: **ethical hacking**, **entity resolution**, **embedded syst
 
 <div align="center">
 
-### ⚡ Languages & Core
+**⚡ Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41)
 
-### 🛡️ Security & Tools
+**🤖 AI / ML**
+
+![Groq](https://img.shields.io/badge/Groq_AI-0d1117?style=for-the-badge&logo=groq&logoColor=00FF41)
+![LLaMA](https://img.shields.io/badge/LLaMA_3.3-0d1117?style=for-the-badge&logo=meta&logoColor=00FF41)
+![Whisper](https://img.shields.io/badge/Whisper-0d1117?style=for-the-badge&logo=openai&logoColor=00FF41)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00FF41)
+
+**🌐 Web & Frameworks**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=00FF41)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
+
+**🛡️ Security & Hardware**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF41)
-
-### 🔧 Hardware & IoT
-
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=00FF41)
 ![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=00FF41)
-![Arduino](https://img.shields.io/badge/Arduino_UNO-0d1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
 
 </div>
 
@@ -86,32 +84,37 @@ Currently exploring: **ethical hacking**, **entity resolution**, **embedded syst
 ### 🛡️ [ARMOR — Financial Conversation Intelligence](https://github.com/DSAI-Society-IIIT-Dharwad/CAPUT_DRACONIS)
 > **DSAI Society Hackathon @ IIIT Dharwad** — Team Caput Draconis
 
-A production-ready, full-stack **AI financial intelligence platform** built for the Indian context. ARMOR captures, transcribes, and deep-analyzes informal financial conversations in **Hinglish & regional languages** using Groq Whisper + LLaMA 3.3-70B — extracting SIP details, loan types, risk scores, sentiment, and auto-generating multilingual summaries in English, Hindi & Kannada.
-`React` `Vite` `TypeScript` `FastAPI` `Python` `Groq AI` `Whisper` `LLaMA 3.3` `Tailwind CSS` `Framer Motion` `SQLite`
+Production-ready, full-stack **AI financial intelligence platform** built for the Indian context. Captures and transcribes informal financial conversations in **Hinglish & regional languages** using Groq Whisper + LLaMA 3.3-70B — extracting SIP details, loan types, risk scores, sentiment, and generating multilingual summaries in English, Hindi & Kannada.
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00FF41)
+![Groq](https://img.shields.io/badge/Groq+Whisper-0d1117?style=flat-square&logo=openai&logoColor=00FF41)
+![LLaMA](https://img.shields.io/badge/LLaMA_3.3_70B-0d1117?style=flat-square&logo=meta&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41)
 
 ---
 
 ### 🔐 [Saptang Entity Resolution System](https://github.com/INFINITYv69/Saptang-EntityResolution)
-> **Saptang Labs Challenge 2025** — Campus Security Intelligence Platform
+> **Saptang Labs Product Development Challenge 2025**
 
-A privacy-aware **multi-modal data fusion engine** that links fragmented campus identities (swipe logs, Wi-Fi records, help-desk notes) into a unified security view. Detects behavioral anomalies, predicts locations, and flags 12-hour inactivity threats.
-`Python` `Streamlit` `ML` `Entity Resolution` `Privacy-by-Design`
+Privacy-aware **multi-modal data fusion engine** that links fragmented campus identities (swipe logs, Wi-Fi, help-desk notes) into a unified security view. Detects behavioral anomalies, predicts locations, and flags 12-hour inactivity threats.
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=00FF41)
+![ML](https://img.shields.io/badge/ML%2FNLP-0d1117?style=flat-square&logo=scikitlearn&logoColor=00FF41)
 
 ---
 
-### 💨 [HackChrono — Smart Smoke & Threat Detection](https://github.com/INFINITYv69/TECHNICIA-HACKCRHONO)
+### 💨 [HackChrono — IoT Smoke & Threat Detection](https://github.com/INFINITYv69/TECHNICIA-HACKCRHONO)
 > **TECHNICIA Hackathon** — IoT + AI Environmental Security
 
-Real-time **smoke/gas detection system** using ESP32 + Raspberry Pi with an AI-powered Streamlit dashboard for live monitoring, circuit simulation, and alert logic.
-`Python` `C++` `ESP32` `Raspberry Pi` `IoT` `Streamlit` `Hardware`
+Real-time **smoke/gas detection system** using ESP32 + Raspberry Pi with an AI-powered Streamlit dashboard. Covers live sensor monitoring, circuit simulation, and multi-threshold alert logic.
 
----
-
-### 📡 [INFINITY-GMU — Embedded Tracking Module](https://github.com/INFINITYv69/INFINITY-GMU)
-> Hardware-level tracking & monitoring system
-
-Low-level **Arduino/C++ tracking module** with custom web interface — built for real-time asset monitoring and location tracking.
-`C++` `Arduino` `HTML/JS` `Embedded Systems`
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41)
+![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=flat-square&logo=espressif&logoColor=00FF41)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat-square&logo=raspberrypi&logoColor=00FF41)
 
 ---
 
@@ -119,14 +122,15 @@ Low-level **Arduino/C++ tracking module** with custom web interface — built fo
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=INFINITYv69&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INFINITYv69&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=INFINITYv69&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&count_private=true&hide_border=false" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INFINITYv69&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=INFINITYv69&theme=terminal&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=INFINITYv69&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=444444" alt="GitHub Streak" />
 
 </div>
 
@@ -135,12 +139,11 @@ Low-level **Arduino/C++ tracking module** with custom web interface — built fo
 ## `> cat /logs/achievements`
 
 ```
-[+] ARMOR — DSAI Society Hackathon @ IIIT Dharwad  ........  COMPLETED
-[+] Saptang Labs Product Development Challenge 2025  ......  COMPLETED
-[+] TECHNICIA HackChrono Hackathon  ........................  COMPLETED  
-[+] 23 Public Repositories  ...............................  ACTIVE
-[+] IoT Security Systems Deployed  ........................  OPERATIONAL
-[+] Multilingual AI Financial Intelligence Platform  ......  SHIPPED
+[+] ARMOR — AI Financial Intelligence @ IIIT Dharwad  .....  SHIPPED   ✓
+[+] Saptang Labs Product Dev Challenge 2025  ...............  COMPLETED ✓
+[+] TECHNICIA HackChrono Hackathon  ........................  COMPLETED ✓
+[+] CS-Cybersecurity Dept Website — GM University  .........  DEPLOYED  ✓
+[+] 4+ Hackathons  |  23 Public Repos  |  Multi-stack Dev  .  ACTIVE    ✓
 ```
 
 ---
@@ -165,8 +168,6 @@ Low-level **Arduino/C++ tracking module** with custom web interface — built fo
 └─────────────────────────────────────────────┘
 ```
 
-![Snake animation](https://github.com/INFINITYv69/INFINITYv69/blob/output/github-contribution-grid-snake-dark.svg)
-
-<sub>⚡ <strong>INFINITYv69</strong> — Securing the edge, one commit at a time.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
 
 </div>
