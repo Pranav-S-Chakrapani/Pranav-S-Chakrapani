@@ -9,7 +9,7 @@
 ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝  
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%5BSYSTEM+INITIALIZING...%5D;%3E+Pranav+S+Chakrapani+%2F%2F+INFINITYv69;%3E+Cybersecurity+Student+%40+GM+University;%3E+IoT+%7C+Ethical+Hacking+%7C+AI+Security;%3E+Building+the+digital+immune+system...;%5BACCESS+GRANTED%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%5BSYSTEM+INITIALIZING...%5D;%3E+Pranav+S+Chakrapani+%2F%2F+INFINITYv69;%3E+Cybersecurity+Student+%40+GM+University;%3E+IoT+%7C+Ethical+Hacking+%7C+AI+Security;%3E+ARMOR%3A+Multilingual+Financial+AI+%40+IIIT+Dharwad;%3E+Building+the+digital+immune+system...;%5BACCESS+GRANTED%5D" alt="Typing SVG" />
 
 <br/>
 
@@ -83,6 +83,14 @@ Currently exploring: **ethical hacking**, **entity resolution**, **embedded syst
 [DECRYPTING PROJECT FILES...]  ████████████████████ DONE
 ```
 
+### 🛡️ [ARMOR — Financial Conversation Intelligence](https://github.com/DSAI-Society-IIIT-Dharwad/CAPUT_DRACONIS)
+> **DSAI Society Hackathon @ IIIT Dharwad** — Team Caput Draconis
+
+A production-ready, full-stack **AI financial intelligence platform** built for the Indian context. ARMOR captures, transcribes, and deep-analyzes informal financial conversations in **Hinglish & regional languages** using Groq Whisper + LLaMA 3.3-70B — extracting SIP details, loan types, risk scores, sentiment, and auto-generating multilingual summaries in English, Hindi & Kannada.
+`React` `Vite` `TypeScript` `FastAPI` `Python` `Groq AI` `Whisper` `LLaMA 3.3` `Tailwind CSS` `Framer Motion` `SQLite`
+
+---
+
 ### 🔐 [Saptang Entity Resolution System](https://github.com/INFINITYv69/Saptang-EntityResolution)
 > **Saptang Labs Challenge 2025** — Campus Security Intelligence Platform
 
@@ -127,11 +135,12 @@ Low-level **Arduino/C++ tracking module** with custom web interface — built fo
 ## `> cat /logs/achievements`
 
 ```
+[+] ARMOR — DSAI Society Hackathon @ IIIT Dharwad  ........  COMPLETED
 [+] Saptang Labs Product Development Challenge 2025  ......  COMPLETED
 [+] TECHNICIA HackChrono Hackathon  ........................  COMPLETED  
 [+] 23 Public Repositories  ...............................  ACTIVE
 [+] IoT Security Systems Deployed  ........................  OPERATIONAL
-[+] Campus AI Monitoring Prototype  .......................  LIVE
+[+] Multilingual AI Financial Intelligence Platform  ......  SHIPPED
 ```
 
 ---
