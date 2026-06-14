@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=INFINITYv69&fontSize=70&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=Pranav%20S%20Chakrapani%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20IoT&descAlignY=60&descColor=0d1117" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Pranav-S-Chakrapani
+&fontSize=70&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=Pranav%20S%20Chakrapani%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20IoT&descAlignY=60&descColor=0d1117" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=600&color=00FF41&center=true&vCenter=true&width=650&lines=%5BSYSTEM+INITIALIZING...%5D;%3E+Cybersecurity+Student+%40+GM+University;%3E+IoT+%7C+Ethical+Hacking+%7C+AI+Security;%3E+Builder+of+ARMOR+%7C+Saptang+%7C+HackChrono;%3E+Securing+the+edge%2C+one+commit+at+a+time...;%5BACCESS+GRANTED+%E2%9C%93%5D" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=INFINITYv69&color=00ff41&style=flat-square&label=VISITORS)
-[![GitHub followers](https://img.shields.io/github/followers/INFINITYv69?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/INFINITYv69)
+![Profile Views](https://komarev.com/ghpvc/?username=Pranav-S-Chakrapani&color=00ff41&style=flat-square&label=VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/Pranav-S-Chakrapani?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/Pranav-S-Chakrapani)
 
 </div>
 
@@ -16,7 +17,7 @@
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  NAME     : Pranav S Chakrapani                              │
-│  ALIAS    : INFINITYv69                                      │
+│  ALIAS    : Pranav-S-Chakrapani                                      │
 │  ROLE     : 2nd Year B.Tech CSE — Cybersecurity              │
 │  UNIT     : GM University                                    │
 │  MISSION  : Secure systems. Break things (ethically).        │
@@ -95,7 +96,7 @@ Production-ready, full-stack **AI financial intelligence platform** built for th
 
 ---
 
-### 🔐 [Saptang Entity Resolution System](https://github.com/INFINITYv69/Saptang-EntityResolution)
+### 🔐 [Saptang Entity Resolution System](https://github.com/Pranav-S-Chakrapani/Saptang-EntityResolution)
 > **Saptang Labs Product Development Challenge 2025**
 
 Privacy-aware **multi-modal data fusion engine** that links fragmented campus identities (swipe logs, Wi-Fi, help-desk notes) into a unified security view. Detects behavioral anomalies, predicts locations, and flags 12-hour inactivity threats.
@@ -106,7 +107,7 @@ Privacy-aware **multi-modal data fusion engine** that links fragmented campus id
 
 ---
 
-### 💨 [HackChrono — IoT Smoke & Threat Detection](https://github.com/INFINITYv69/TECHNICIA-HACKCRHONO)
+### 💨 [HackChrono — IoT Smoke & Threat Detection](https://github.com/Pranav-S-Chakrapani/TECHNICIA-HACKCRHONO)
 > **TECHNICIA Hackathon** — IoT + AI Environmental Security
 
 Real-time **smoke/gas detection system** using ESP32 + Raspberry Pi with an AI-powered Streamlit dashboard. Covers live sensor monitoring, circuit simulation, and multi-threshold alert logic.
@@ -122,15 +123,15 @@ Real-time **smoke/gas detection system** using ESP32 + Raspberry Pi with an AI-p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=INFINITYv69&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&count_private=true&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranav-S-Chakrapani&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&count_private=true&hide_border=false" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INFINITYv69&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-S-Chakrapani&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=INFINITYv69&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=444444" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav-S-Chakrapani&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=444444" alt="GitHub Streak" />
 
 </div>
 
@@ -152,7 +153,7 @@ Real-time **smoke/gas detection system** using ESP32 + Raspberry Pi with an AI-p
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-INFINITYv69-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117)](https://github.com/INFINITYv69)
+[![GitHub](https://img.shields.io/badge/GitHub-Pranav-S-Chakrapani-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117)](https://github.com/Pranav-S-Chakrapani)
 
 </div>
 
