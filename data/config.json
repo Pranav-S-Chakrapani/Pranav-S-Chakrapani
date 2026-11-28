@@ -1,0 +1,76 @@
+{
+  "username": "Pranav-S-Chakrapani",
+  "name_line1": "Pranav",
+  "name_line2": "Chakrapani",
+  "eyebrow": "BACKEND & AI SYSTEMS DEVELOPER",
+  "tagline": "LLM orchestration, security tooling, and IoT — built end to end, shipped at Google's AI hackathon in Tokyo.",
+  "portrait": "https://github.com/Pranav-S-Chakrapani.png",
+  "link_label": "github.com/Pranav-S-Chakrapani",
+  "colors": {
+    "bg": "#0c0c0d",
+    "surface_1": "#131316",
+    "text": "#f5f5f3",
+    "muted": "#8b8b93",
+    "accent": "#7f5af0",
+    "accent_dim": "#3a3154",
+    "on_accent": "#ffffff"
+  },
+  "font": {
+    "serif_regular": "fonts/Fraunces-Regular.woff2",
+    "serif_italic": "fonts/Fraunces-Italic.woff2",
+    "serif_semibold": "fonts/Fraunces-SemiBold.woff2",
+    "sans_regular": "fonts/Inter-Regular.woff2",
+    "sans_semibold": "fonts/Inter-SemiBold.woff2",
+    "mono_regular": "fonts/FiraCode-Regular.woff2",
+    "mono_bold": "fonts/FiraCode-Bold.woff2",
+    "serif": "Fraunces",
+    "sans": "Inter",
+    "mono": "Fira Code"
+  },
+  "tiles": [
+    {
+      "eyebrow": "GITHUB",
+      "headline": "59 repos",
+      "sub": "4 followers · 21 stars",
+      "url": "https://github.com/Pranav-S-Chakrapani"
+    },
+    {
+      "eyebrow": "HACKATHONS",
+      "headline": "Tokyo, Japan",
+      "sub": "Google Gemini AI Hackathon",
+      "url": "https://github.com/Pranav-S-Chakrapani"
+    },
+    {
+      "eyebrow": "FOCUS",
+      "headline": "AI × Security",
+      "sub": "LLM orchestration · IoT",
+      "url": "mailto:mybrosp4@gmail.com"
+    }
+  ],
+  "repos": [
+    {
+      "slug": "saptang-entityresolution",
+      "name": "Saptang-EntityResolution",
+      "desc": "Privacy-aware multi-modal fusion engine linking fragmented campus identities into one security view.",
+      "lang": "Python",
+      "lang_color": "#7f5af0",
+      "url": "https://github.com/Pranav-S-Chakrapani/Saptang-EntityResolution"
+    },
+    {
+      "slug": "technicia-hackchrono",
+      "name": "TECHNICIA-HACKCRHONO",
+      "desc": "Real-time smoke/gas detection on ESP32 + Raspberry Pi with an AI-powered Streamlit dashboard.",
+      "lang": "C++",
+      "lang_color": "#7f5af0",
+      "url": "https://github.com/Pranav-S-Chakrapani/TECHNICIA-HACKCRHONO"
+    },
+    {
+      "slug": "infinity-gmu",
+      "name": "INFINITY-GMU",
+      "desc": "Club project codebase for INFINITY, GM University's tech community.",
+      "lang": "C++",
+      "lang_color": "#7f5af0",
+      "url": "https://github.com/Pranav-S-Chakrapani/INFINITY-GMU"
+    }
+  ]
+}
