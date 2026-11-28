@@ -1,0 +1,71 @@
+{
+  "username": "Pranav-S-Chakrapani",
+  "name": "Pranav S Chakrapani",
+  "tagline": "Backend & AI Systems developer — LLM orchestration, security engineering, IoT.",
+  "portrait": "https://github.com/Pranav-S-Chakrapani.png",
+
+  "colors": {
+    "bg": "#161b22",
+    "bg_soft": "#1c222b",
+    "border": "#7F5AF0",
+    "primary": "#7F5AF0",
+    "mid": "#6246EA",
+    "accent": "#2CB67D",
+    "text": "#eaeaea",
+    "muted": "#9aa4b2"
+  },
+
+  "font": {
+    "regular": "fonts/FiraCode-Regular.woff2",
+    "bold": "fonts/FiraCode-Bold.woff2",
+    "family": "Fira Code"
+  },
+
+  "tiles": [
+    {
+      "label": "GitHub",
+      "sub": "59 repos · 4 followers",
+      "icon": "octocat",
+      "url": "https://github.com/Pranav-S-Chakrapani"
+    },
+    {
+      "label": "Email",
+      "sub": "mybrosp4@gmail.com",
+      "icon": "mail",
+      "url": "mailto:mybrosp4@gmail.com"
+    },
+    {
+      "label": "Flagship Build",
+      "sub": "AI Home Shield — Tokyo \ud83c\udde9\ud83c\uddf5",
+      "icon": "shield",
+      "url": "https://github.com/Pranav-S-Chakrapani"
+    }
+  ],
+
+  "repos": [
+    {
+      "slug": "saptang-entityresolution",
+      "name": "Saptang-EntityResolution",
+      "desc": "Privacy-aware multi-modal fusion engine linking fragmented campus identities into one security view.",
+      "lang": "Python",
+      "lang_color": "#2CB67D",
+      "url": "https://github.com/Pranav-S-Chakrapani/Saptang-EntityResolution"
+    },
+    {
+      "slug": "technicia-hackchrono",
+      "name": "TECHNICIA-HACKCRHONO",
+      "desc": "Real-time smoke/gas detection on ESP32 + Raspberry Pi with an AI-powered Streamlit dashboard.",
+      "lang": "C++",
+      "lang_color": "#6246EA",
+      "url": "https://github.com/Pranav-S-Chakrapani/TECHNICIA-HACKCRHONO"
+    },
+    {
+      "slug": "infinity-gmu",
+      "name": "INFINITY-GMU",
+      "desc": "Club project codebase for INFINITY, GM University's tech community.",
+      "lang": "C++",
+      "lang_color": "#6246EA",
+      "url": "https://github.com/Pranav-S-Chakrapani/INFINITY-GMU"
+    }
+  ]
+}
